@@ -12,5 +12,5 @@
 * 🚀 **[раздел в работе]
 
 ### 📫 Как со мной связаться
-* Telegram: [@juliya_fay]
-* Email: [juliyakim1997@gmail.com]
+* Telegram: @juliya_fay
+* Email: juliyakim1997@gmail.com
