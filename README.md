@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! Я QA Engineer 👋
 
-<!--
-**juliyafay/juliyafay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специализируюсь на ручном тестировании веб и мобильных приложений. Ищу проекты на фрилансе и открыта к предложениям о постоянной работе.
 
-Here are some ideas to get you started:
+### 🛠 Стек технологий и инструменты
+* **Тест-дизайн:** Тест-кейсы, чек-листы, тест-планы, баг-репорты.
+* **Техники:** Классы эквивалентности, граничные значения, pairwise, предугадывание ошибки.
+* **Инструменты:** DevTools, Postman (REST API), Charles Proxy? testRail, Qase.io, Jira, PostgreSQL, DBeaver, Git
+* **Окружение:** Windows, Android, iOS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Мои проекты (Портфолио)
+* 🚀 **[раздел в работе]
+
+### 📫 Как со мной связаться
+* Telegram: [@juliya_fay]
+* Email: [juliyakim1997@gmail.com]
