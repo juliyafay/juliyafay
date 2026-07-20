@@ -11,7 +11,7 @@ QA Engineer с опытом более 2-х лет в тестировании A
 * **Окружение:** Windows, Android, iOS.
 
 ### 📁 Мои проекты (Портфолио)
-* 🚀 **[раздел в работе]
+* 🚀 **[![Тест-кейсы](https://img.shields.io/badge/Тест--кейсы-посмотреть-blue)](https://github.com/juliyafay/manual_qa_portfolio/tree/main/test-cases)
 
 ### 📫 Как со мной связаться
 * Telegram: @juliya_fay
